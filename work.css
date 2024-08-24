@@ -1,0 +1,94 @@
+body{
+    background-image: url(https://library.sportingnews.com/styles/twitter_card_120x120/s3/2024-04/MS%20Dhoni%20vs%20LSG%20IPL%202024.jpg?itok=ALltZEND);
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+header{
+    position: sticky;
+    top: 0;
+    background-color: aquamarine;
+    height: 70px;
+    width: 100vw;
+}
+h1{
+    color: blueviolet;
+    font-size: 30px;
+    padding-left: 30px;
+    display: inline-block;  
+}
+nav{
+    color: blue;
+   display: inline-block;
+    font-size: 20px;
+    padding-left: 700px;
+}
+
+.div1{
+position: sticky;
+top: 80px;
+margin-top: 10px;
+border-radius: 8px;
+height: 70px;
+box-shadow: 3px 3px 4px white;
+background: linear-gradient(to right, purple, lightblue, blue)
+
+}
+#span1{
+ text-align: center;
+ display: block;
+}
+#span2{
+ text-align: right;
+ display: block;
+}
+
+.mainsection{
+    background-color: white;
+    border-radius: 12px;
+    width: 93em;
+    height: 780px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+p{
+    color: red;
+    padding: 10px;
+    text-indent: 70px;
+    font-size: 20px;
+}
+
+#img1{            
+    padding-left: 600px;           
+}
+#img2{            
+    display: block;
+                    
+}        
+#img3{
+    display: block;
+    object-fit: cover;
+}
+
+#footer{
+    background-color: lightcoral;
+    width: 93rem;
+    height: 200px;
+    margin-top: 10px;
+    border: 2px solid rgba(237, 47, 47, 0.929);
+    border-radius: 12px;
+}
+#p1{
+    color: green;
+    font-style: italic;
+    font-size: 30px;
+}
+#p2{
+    color: green;
+    font-style: italic;
+    font-size: 30px;
+    position: relative; 
+    left: 900px;
+    bottom: 70px;
+}
